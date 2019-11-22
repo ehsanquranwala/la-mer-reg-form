@@ -1,0 +1,43 @@
+[debug] [2019-10-24T07:59:34.550Z] ----------------------------------------------------------------------
+[debug] [2019-10-24T07:59:34.552Z] Command:       /home/mohtashim/.nvm/versions/node/v10.15.1/bin/node /home/mohtashim/.nvm/versions/node/v10.15.1/bin/firebase init
+[debug] [2019-10-24T07:59:34.552Z] CLI Version:   7.5.0
+[debug] [2019-10-24T07:59:34.552Z] Platform:      linux
+[debug] [2019-10-24T07:59:34.552Z] Node Version:  v10.15.1
+[debug] [2019-10-24T07:59:34.555Z] Time:          Thu Oct 24 2019 12:59:34 GMT+0500 (Pakistan Standard Time)
+[debug] [2019-10-24T07:59:34.555Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-10-24T07:59:34.560Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-10-24T07:59:34.561Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/mohtashim/Downloads/LaMer-iPad/lamer
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  .firebaserc already has a default project, using signup-b8168.
+[debug] [2019-10-24T07:59:40.933Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/signup-b8168  
+ 
+[debug] [2019-10-24T07:59:41.865Z] <<< HTTP RESPONSE 200
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
